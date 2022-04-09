@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/Paulina/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/Paulina/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/target/classes;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/Paulina/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar'
+--patch-module
+pl.polsl.polybiussquare2='D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PolybiusSquare2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PolybiusSquare2 1.0-SNAPSHOT API'
+pl.polsl.math
+pl.polsl.polybiussquare2
+'D:/sem 5/JwIiUM/laboratorium/3/PolybiusSquare2/src/main/java/module-info.java'
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\allclasses-index.html = 1639384884081
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\allclasses.html = 1639384884081
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\allpackages-index.html = 1639384884081
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\constant-values.html = 1639384883981
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\deprecated-list.html = 1639384884081
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\element-list = 1639384883927
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\help-doc.html = 1639384884096
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\index-all.html = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\index.html = 1639384884081
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\member-search-index.js = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\member-search-index.zip = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\module-search-index.js = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\module-search-index.zip = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\overview-tree.html = 1639384884032
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\package-search-index.js = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\package-search-index.zip = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\script.js = 1639384884096
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\search.js = 1639384884096
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\serialized-form.html = 1639384883985
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\stylesheet.css = 1639384884096
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\type-search-index.js = 1639384884065
+D:\sem 5\JwIiUM\laboratorium\3\PolybiusSquare2\target\site\apidocs\type-search-index.zip = 1639384884065

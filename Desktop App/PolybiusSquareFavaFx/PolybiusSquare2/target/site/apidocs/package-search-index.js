@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"pl.polsl.polybiussquare2","l":"pl.polsl.math"},{"m":"pl.polsl.polybiussquare2","l":"pl.polsl.polybiussquare2"}]

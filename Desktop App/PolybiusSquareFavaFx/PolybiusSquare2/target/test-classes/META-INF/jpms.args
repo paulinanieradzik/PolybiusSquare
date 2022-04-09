@@ -1,0 +1,4 @@
+--patch-module
+pl.polsl.polybiussquare2=_
+--add-reads
+pl.polsl.polybiussquare2=ALL-UNNAMED
