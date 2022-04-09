@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Polybius Square</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h2>Polybius Square</h2>
+        <p>The purpose of this application is to encrypt and decrypt words using Polybius square.</p>
+        <hr>
+        Select decryption or encryption and type word you want to translate.
+        <form  action="Translate" method="POST">
+            <p><input type=radio name=type value= decryption checked>Decryption</p>
+            <p><input type=radio name=type value= encryption>Encryption </p>
+            <p>For <strong>decryption</strong> input input must follow conditions listed below:<br>
+                *Numbers must have two digits<br>
+                *From one to five two digits numbers<br>
+                *eg. 11 22 33 44 55
+            </p>
+             <p>For <strong>encryption</strong> input input must follow conditions listed below:<br>
+                *only english characters<br>
+                *eg. malysz
+            </p>
+            <input type=text size=30 name=word >
+            <input type="submit" value="translate" />
+        </form>
+        <hr>
+        <h2>History</h2>
+        <p>This section is read from application <strong>context</strong>.</p>
+        <form action="History">
+            <p><input type=radio name=history value= decryption checked>Decryption</p>
+            <p><input type=radio name=history value= encryption>Encryption</p>
+            <p><input type=radio name=history value= all>All</p>
+            <input type="submit" value="show" />
+        </form>
+        <hr>
+        <h2>Database</h2>
+        <p>This section is read from application <strong>database</strong>.</p>
+        <form action="Database">
+            <input type="submit" value="show database" />
+        </form>
+    </body>
+</html>
