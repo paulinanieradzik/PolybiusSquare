@@ -16,24 +16,6 @@ The purpose of this application is to encrypt and decrypt words using Polybius s
 Goal of creating this application was to learn Java and good programming practices. 
 
 ### Images
-# Polybius Square
-
-The purpose of this application is to encrypt and decrypt words using Polybius square. It was created in two versions: as a web and as a desktop app.
-
-- [Polybius Square](#polybius-square)
-    - [General info](#general-info)
-    - [Images](#images)
-    - [How to use](#how-to-use)
-        - [Web app](#web-app)
-        - [Desktop app](#desktop-app)
-    - [Technologies](#technologies)
-    - [Status](#status)
-
-### General info
-
-Goal of creating this application was to learn Java and good programming practices. 
-
-### Images
 Web App
 ![279378448_2249488708550410_5602210578722780243_n](https://user-images.githubusercontent.com/56251965/167311107-da5a604d-0206-4615-ae67-f87dd9339b47.png)
 ![279960780_295498296099434_6603318112143755161_n](https://user-images.githubusercontent.com/56251965/167311118-e80cc219-1ee6-4efa-a9e9-c684fb64800d.png)
